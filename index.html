@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Fraud Detector AI</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="container">
+      <h1>🛡️ Fraud Detector AI</h1>
+
+      <textarea
+        id="inputText"
+        placeholder="Paste message or link here..."
+      ></textarea>
+
+      <div class="buttons">
+        <button onclick="analyze()">Analyze</button>
+        <button onclick="toggleMode()">🌙</button>
+      </div>
+
+      <!-- Loader -->
+      <div id="loader" class="loader hidden"></div>
+
+      <!-- Risk Score -->
+      <h2 id="score"></h2>
+
+      <!-- Risk Meter -->
+      <div class="meter">
+        <div id="bar"></div>
+      </div>
+
+      <!-- Result -->
+      <p id="result"></p>
+      <p class="note">
+        ⚠️ This tool gives suggestions only. Always verify links manually.
+      </p>
+
+      <!-- Reasons -->
+      <ul id="reasons"></ul>
+    </div>
+
+    <script src="script.js"></script>
+  </body>
+</html>
