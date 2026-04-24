@@ -18,4 +18,5 @@ Helps users avoid phishing attacks and scam links before clicking.
 - Real-time detection
 
 ## 🌍 Live Demo
-[Click here](YOUR_NETLIFY_LINK)
+[Click here]
+https://app.netlify.com/projects/fraud-link-detector/
