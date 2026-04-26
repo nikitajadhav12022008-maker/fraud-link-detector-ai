@@ -29,6 +29,8 @@ Helps users avoid phishing attacks and scam links before clicking.
 Click here
 https://app.netlify.com/projects/fraud-link-detector/
 
+-----
+
 ## Github link
 Click here
 https://github.com/nikitajadhav12022008-maker/fraud-link-detector-ai
