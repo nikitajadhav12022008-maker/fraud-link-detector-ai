@@ -22,6 +22,8 @@ Helps users avoid phishing attacks and scam links before clicking.
 - API integration (VirusTotal)
 - Chrome Extension
 - Real-time detection
+ 
+ ----
 
 ## 🌍 Live Demo
 Click here
