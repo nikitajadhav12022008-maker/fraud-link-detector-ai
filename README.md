@@ -2,6 +2,8 @@
 
 A smart web tool that detects scam links and phishing messages using pattern-based analysis.
 
+----
+
 ## 🚀 Features
 - Risk score (0–100%)
 - Scam detection from messages
