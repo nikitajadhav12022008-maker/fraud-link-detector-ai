@@ -1,4 +1,4 @@
-## 🛡️ Fraud Detector AI
+# 🛡️ Fraud Detector AI
 
 A smart web tool that detects scam links and phishing messages using pattern-based analysis.
 
