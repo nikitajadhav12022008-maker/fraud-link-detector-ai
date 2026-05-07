@@ -4,7 +4,8 @@ A smart web tool that detects scam links and phishing messages using pattern-bas
 
 ----
 
-## 🚀 Features
+## 🚀 Features:
+
 - Risk score (0–100%)
 - Scam detection from messages
 - Fake domain detection
