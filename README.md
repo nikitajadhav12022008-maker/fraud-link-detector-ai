@@ -16,11 +16,12 @@ A smart web tool that detects scam links and phishing messages using pattern-bas
 
 ## 💡 Problem it solves:
 
-Helps users avoid phishing attacks and scam links before clicking.
+- Helps users avoid phishing attacks and scam links before clicking.
 
 -----
 
-## 🔮 Future Scope
+## 🔮 Future Scope:
+
 - API integration (VirusTotal)
 - Chrome Extension
 - Real-time detection
