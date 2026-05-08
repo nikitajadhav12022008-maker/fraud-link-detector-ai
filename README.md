@@ -14,7 +14,8 @@ A smart web tool that detects scam links and phishing messages using pattern-bas
 
 ----
 
-## 💡 Problem it solves
+## 💡 Problem it solves:
+
 Helps users avoid phishing attacks and scam links before clicking.
 
 -----
