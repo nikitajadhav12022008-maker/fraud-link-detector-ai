@@ -28,12 +28,12 @@ A smart web tool that detects scam links and phishing messages using pattern-bas
  
  ----
 
-## 🌍 Live Demo
+## 🌍 Live Demo:
 Click here
 https://app.netlify.com/projects/fraud-link-detector/
 
 -----
 
-## Github link
+## Github link:
 Click here
 https://github.com/nikitajadhav12022008-maker/fraud-link-detector-ai
