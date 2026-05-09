@@ -29,19 +29,19 @@ A smart web tool that detects scam links and phishing messages using pattern-bas
  ----
 
 ## 🌍 Live Demo:
-Click here
+- Click here
 https://app.netlify.com/projects/fraud-link-detector/
 
 -----
 
 ## Github link:
-Click here
+- Click here
 https://github.com/nikitajadhav12022008-maker/fraud-link-detector-ai
 
 ----
 
 ## Author:
-Nikita Jadhav
+- Nikita Jadhav
 
 
 
