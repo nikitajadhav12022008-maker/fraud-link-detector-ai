@@ -37,3 +37,12 @@ https://app.netlify.com/projects/fraud-link-detector/
 ## Github link:
 Click here
 https://github.com/nikitajadhav12022008-maker/fraud-link-detector-ai
+
+----
+
+## Author:
+Nikita Jadhav
+
+
+
+
